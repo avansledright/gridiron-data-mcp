@@ -1,0 +1,11 @@
+{
+  "name": "gridiron-data-mcp",
+  "version": "1.0.0",
+  "description": "NFL fantasy football data: players, projections, stats, snaps, news, injuries and prop odds.",
+  "mcpServers": {
+    "gridiron-data": {
+      "httpUrl": "https://api.gridirondata.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

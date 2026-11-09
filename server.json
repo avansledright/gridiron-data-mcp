@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.avansledright/gridiron-data",
+  "title": "GridIron Data",
+  "description": "NFL fantasy football data: players, projections, stats, snaps, news, injuries and prop odds.",
+  "websiteUrl": "https://www.gridirondata.com/pages/guide-mcp.html",
+  "icons": [
+    {
+      "src": "https://www.gridirondata.com/favicon.svg",
+      "mimeType": "image/svg+xml"
+    }
+  ],
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.gridirondata.com/mcp"
+    }
+  ]
+}
