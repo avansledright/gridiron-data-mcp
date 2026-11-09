@@ -1,5 +1,7 @@
 # GridIron Data MCP server
 
+[![mcptry](https://mcptry.com/badge/io.github.avansledright/gridiron-data)](https://mcptry.com/servers/io.github.avansledright/gridiron-data)
+
 NFL fantasy football data for AI assistants: players, weekly and rest-of-season projections, stats, snap shares, matchups, news, injury changes and player-prop probabilities.
 
 This is the official [GridIron Data](https://www.gridirondata.com) remote MCP server. There's nothing to install: connect to
